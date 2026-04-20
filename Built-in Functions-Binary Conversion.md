@@ -17,5 +17,6 @@ print(binary_number)
 
 ## Output
 <img width="827" height="150" alt="image" src="https://github.com/user-attachments/assets/03af072d-3665-4200-b906-6526bd3c686b" />
+
 ## Result
 Thus , the program has been executed succesfully.
