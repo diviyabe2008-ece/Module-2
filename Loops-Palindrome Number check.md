@@ -17,9 +17,7 @@ To write a Python program that checks whether a given number is a **palindrome**
 
 ## 🧾 Program
 num=int(input()) 
-
 rev=0 
-
 temp=num 
 
 while temp>0: 
