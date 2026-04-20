@@ -19,7 +19,6 @@ To write a Python program that checks whether a given number is a **palindrome**
 num=int(input()) 
 rev=0 
 temp=num 
-
 while temp>0: 
 
     rev=(10*rev)+temp%10 
