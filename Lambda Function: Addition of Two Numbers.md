@@ -21,7 +21,6 @@ print(f(a,b))
 ```
 
 ## Output
-![Screenshot 2025-05-02 141548](https://github.com/user-attachments/assets/54688436-2a4c-4921-96da-58faa3b339ad)
-
+<img width="732" height="239" alt="image" src="https://github.com/user-attachments/assets/b4ea5caa-a7e5-4034-85ba-3bf771924961" />
 ## Result
 Thus, the program has been successfully executed. 
